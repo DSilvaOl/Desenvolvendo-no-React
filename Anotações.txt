@@ -4,7 +4,6 @@ CURSO REACT - MATHEUS BATTISTI
 INTRODUÇÃO E INSTALAÇÃO DO REACT
 completo
 
-QUARTA F. 28/09/22
 AULA DE COMPONENTES ENTENDENDO ELES #03
 completo
 
@@ -12,6 +11,19 @@ SEGUNDA F. 04/10/22
 AULA DE COMPONENTES #04
 completo
 
-Terça F. 02/02/23
+Quarta F. 01/02/23
 Props #05
 completo
+
+Sexta F. 03/02/23
+Css Aula #06
+completo
+
+Sexta F. 03/02/23
+Fragmentos Aula #07
+completo
+
+Sexta F. 03/02/23
+Props Aula #08
+Assistido
+
