@@ -23,7 +23,16 @@ Sexta F. 03/02/23
 Fragmentos Aula #07
 completo
 
-Sexta F. 03/02/23
+Segunda F. 06/02/23
 Props Aula #08
+completo
+
+Segunda F. 06/02/23
+Onclick/Onchange/OnSubmit Aula #09
+completo
+
+Segunda F. 06/02/23
+useState Aula #10
 Assistido
+
 
