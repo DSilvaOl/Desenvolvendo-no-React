@@ -31,8 +31,15 @@ Segunda F. 06/02/23
 Onclick/Onchange/OnSubmit Aula #09
 completo
 
-Segunda F. 06/02/23
+Segunda F. 07/02/23
 useState Aula #10
-Assistido
+completo
 
+Segunda F. 07/02/23
+Passando Eventos por Props Aula #11
+completo
+
+Segunda F. 07/02/23
+Renderização por Condição Aula #12
+Assistido
 

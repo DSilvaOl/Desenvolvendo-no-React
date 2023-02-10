@@ -16,8 +16,8 @@ Item.propTypes = {
 };
 
 Item.defaultProps = {
-marca: 'faltou a marca',
-ano_lancamento: 0,
-}
+  marca: "faltou a marca",
+  ano_lancamento: 0,
+};
 
 export default Item;
