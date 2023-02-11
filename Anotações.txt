@@ -41,5 +41,11 @@ completo
 
 Segunda F. 07/02/23
 Renderização por Condição Aula #12
-Assistido
+Completo
 
+Git 
+git status (pra ver os novos arquivos)
+git add . (pra add os novos arquivos)
+git status (novamente) pra conferir se os novos arqs. foram add
+git commit -a -m "Nome da atualização" (Comitar os novos arqs.)
+git push origin master (ou main verificar qual a branch)
