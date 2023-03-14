@@ -43,9 +43,37 @@ Segunda F. 07/02/23
 Renderização por Condição Aula #12
 Completo
 
-Git 
+Terça F. 21/02/23
+Renderização de Listas Aula #13
+Completo
+
+Terça F. 07/02/23
+State Lift Aula #14
+cont. 8:15min
+Completo
+----------------
+Terça F. 13/03/23
+React Router  Aula #15
+Assistido
+
+
+
+
+Navergar pelas pastas:
+
+(Volta uma Pasta) cd.. 
+(Adiantar uma pasta) cd espaço (+ nome da pasta)
+dir (mostra as pastas que tenho, dentro da pasta que estou)
+mostrar arqs e pastas por parte (/p)
+cls (limpa a tela)
+ 
+
+Git:
+
 git status (pra ver os novos arquivos)
 git add . (pra add os novos arquivos)
 git status (novamente) pra conferir se os novos arqs. foram add
 git commit -a -m "Nome da atualização" (Comitar os novos arqs.)
 git push origin master (ou main verificar qual a branch)
+
+
