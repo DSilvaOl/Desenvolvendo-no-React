@@ -55,6 +55,9 @@ Completo
 Terça F. 13/03/23
 React Router  Aula #15
 Completo
+---------------------
+React Icons  Aula #16
+completo
 
 
 
